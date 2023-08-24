@@ -1,0 +1,7 @@
+{
+    "street": "Norberto Crossing",
+    "suite": "Apt. 950",
+    "city": "South Christy",
+    "zipcode": "23505-1337",
+    "geo": "$geo"
+}
